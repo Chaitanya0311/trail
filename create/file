@@ -1,1 +1,1 @@
-az storage account create -n chaitanya407 -g Bhanu -l westus --sku Standard_LRS
+az storage account create -n pullrequests123 -g CoE-Training -l westus --sku Standard_LRS
